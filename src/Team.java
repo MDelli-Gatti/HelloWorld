@@ -6,4 +6,5 @@ public class Team {
     String mascot;
     int wins;
     int losses;
+    Team[] playerNumber = new Team[2];
 }
